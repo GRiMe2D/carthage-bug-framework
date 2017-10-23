@@ -1,1 +1,1 @@
-github "aabbcc-double/carthage-bug-framework-second"
+github "aabbcc-double/carthage-bug-framework-second" ~> 2.0.0
